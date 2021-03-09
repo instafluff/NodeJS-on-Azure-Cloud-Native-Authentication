@@ -1,0 +1,18 @@
+{
+  "name": "jobs",
+  "version": "1.0.0",
+  "description": "Jobs Cache Process",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.32",
+    "typescript": "^4.2.3",
+    "node-fetch": "^2.6.1",
+    "webwebweb": "^1.4.9"
+  }
+}
